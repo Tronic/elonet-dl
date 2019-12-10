@@ -1,0 +1,7 @@
+README.md
+setup.py
+elonet_dl.egg-info/PKG-INFO
+elonet_dl.egg-info/SOURCES.txt
+elonet_dl.egg-info/dependency_links.txt
+elonet_dl.egg-info/requires.txt
+elonet_dl.egg-info/top_level.txt
